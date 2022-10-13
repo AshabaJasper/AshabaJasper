@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshabaJAsper&show_icons=true&locale=en&theme=tokyonight" alt="ashabajasper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&&theme=tokyonight" alt="ashabajasper" /></p>
