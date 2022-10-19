@@ -18,6 +18,7 @@
 - 📫 How to reach me **ashabajasper@gmail.com**
 
 - ⚡ Fun fact **I am very comic!**
+😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
