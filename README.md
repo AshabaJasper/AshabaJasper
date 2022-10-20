@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python , Artificial Intelligence, Data Science**
 
-- 📫 How to reach me **ashabajasper@gmail.com**
+- 📫 How to reach me **ashabajasper@gmail.com**📧
 
 - ⚡ Fun fact **I am very comic!**
 😂
