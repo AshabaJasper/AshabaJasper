@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python , Artificial Intelligence, Data Science**
+- 💬 Ask me about **Python , AI, ML & Data Science**
 
 - 📫 How to reach me **ashabajasper@gmail.com**📧
 
