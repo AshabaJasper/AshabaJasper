@@ -35,13 +35,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshabaJasper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashabajasper" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshabaJAsper&show_icons=true&locale=en&theme=tokyonight" alt="ashabajasper" /></p>
 
+## Streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&&theme=tokyonight" alt="ashabajasper" /></p>
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?AshabaJasper=ryo-ma&theme=tokyonight
 
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
