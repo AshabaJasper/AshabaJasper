@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&&theme=tokyonight" alt="ashabajasper" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?AshabaJasper=ryo-ma&theme=tokyonight
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
