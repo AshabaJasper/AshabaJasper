@@ -1,7 +1,7 @@
 
 <!A simple read me file>
 <h1 align="center">Hi 👋, I'm Ashaba Joshua Jasper</h1>
-<h3 align="center">A passionate Computer scientist and Data Scientist!</h3>
+<h3 align="center">A passionate Computer Scientist and Data Scientist!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
