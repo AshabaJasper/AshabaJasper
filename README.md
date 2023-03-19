@@ -35,19 +35,19 @@
 
 ## 🌐 Most Used Languages 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshabaJasper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashabajasper" /></p>
-
-## 🐦 Latest Tweet
-<p><img align="centre" src="https://github-readme-twitter.gazf.vercel.app/api?id=ashaba_jasper&layout=wide)](https://github.com/gazf/github-readme-twitter" alt="ashabajasper" /></p>
- 
- 
+  
  ## 📗 Stats & 🗲 Streaks
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&locale=en&theme=tokyonight" alt="ashabajasper" /> <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&&theme=tokyonight" alt="ashabajasper" /> 
  
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshabaJasper&row=1&theme=tokyonight)](https://github.com/AshabaJasper/github-profile-trophy)
  
-### ✍️ Random Dev Quote
+## 🐦 Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ashaba_jasper&layout=wide)](https://github.com/gazf/github-readme-twitter)
+ 
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
+
 
 
