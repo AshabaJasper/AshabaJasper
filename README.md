@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python , AI, ML & Data Science**
 
-- 📫 How to reach me **ashabajasper@gmail.com**📧
+- ❤️ Currently in love with **python**
 
 - ⚡ Fun fact **I am very comic!**😂
 
