@@ -19,12 +19,11 @@
 
 - ⚡ Fun fact **I am very comic!**😂
 
-<h3 align="left">Connect with me:</h3>
+<h2  align="left">📫 Reach me on</h2>
 <p align="left">
-<a href="https://twitter.com/Godschild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashabajasper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashaba-jasper-29621b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashaba-jasper-29621b241" height="30" width="40" /></a>
-<a href="https://instagram.com/Ashaba Jasper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ashaba_Jasper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashaba jasper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashaba jasper" height="30" width="40" /></a>
+   <a target="_blank"href="https://www.linkedin.com/in/ashaba-jasper-29621b241/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ashaba_jasper"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ashabajasper@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
