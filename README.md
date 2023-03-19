@@ -1,7 +1,7 @@
 
 <!A simple read me file>
 <h1 align="center">Hi 👋, I'm Ashaba Joshua Jasper</h1>
-<h3 align="center">A passionate Computer Scientist and Data Scientist!</h3>
+<h3 align="center">A passionate Full stack Developer and Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667">
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashaba_jasper" target="blank"><img src="https://img.shields.io/twitter/follow/ashaba_jasper?logo=twitter&style=for-the-badge" alt="ashabajasper" /></a> </p>
 
-- 🔭 I’m currently working on **AI and ML models**
+- 🔭 I’m currently working on **TensorFlow**
 
 - 🌱 I’m currently learning **Data Science**
 
