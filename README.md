@@ -17,7 +17,7 @@
 
 - ❤️ Currently in love with **Python**
 
-- ⚡ Fun fact **I am very comic!**😂
+- ⚡ Fun fact **I am very comic!** 😂
 
 <h2  align="left">📫 Reach me on</h2>
 <p align="left">
