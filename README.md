@@ -103,7 +103,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshabaJasper&row=1&theme=tokyonight)](https://github.com/AshabaJasper/github-profile-trophy)
  
 ## 🐦 Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ashaba_jasper&layout=wide)](https://github.com/AshabaJasper/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ashaba_jasper&layout=wide)](https://twitter.com/ashaba_jasper)
  
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
