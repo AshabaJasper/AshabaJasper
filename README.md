@@ -1,4 +1,6 @@
 <!-- Work on previous MD-->
+
+<!--FIX The python loader-->
 # Hi 👋, I'm Ashaba Joshua Jasper
 
 ### A passionate Full-Stack Developer and Data Scientist
