@@ -1,5 +1,5 @@
 <!-- Work on previous MD-->
-<!-- erious update needed (10/10/24)-->
+<!-- serious update needed (10/10/24)-->
 <!--FIX The python loader-->
 # Hi 👋, I'm Ashaba Joshua Jasper
 
