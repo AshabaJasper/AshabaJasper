@@ -6,7 +6,7 @@
       
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20views&color=0e75b6&style=flat" alt="ashabajasper" /> 
-</p>
+</p> 
  
 <p align="left"> 
   <a href="https://twitter.com/ashaba_jasper" target="_blank">
