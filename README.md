@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ashaba Joshua Jasper
-  
+   
 **A Passionate Full-Stack Developer, Data Scientist, and App Developer**
 
 Welcome to my GitHub profile! I'm a multi_faceted developer with a deep love for technology and innovation. My expertise spans full-stack development, data science, and app development. I’m driven by a passion for creating impactful solutions through code and leveraging technology to make a difference.
