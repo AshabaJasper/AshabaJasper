@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am a dedicated Data Scientist and Data Analyst w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=AshabaJasper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AshabaJasper" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" />
