@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a dedicated Data Scientist and Data Analyst w
 
 - 🔭 **Currently Working On:** Data Analytics and Machine Learning models.
 - 🌱 **Learning:** Advanced SQL, Machine Learning, and AI-driven analytics.
-- 🛠️ **Building:** Data dashboards and analytical tools.
+- 🛠️ **Building:** Data dashboards and analytical tools. 
 - 💬 **Ask Me About:** Data Science, SQL, Python, Web Development, and App Development.
 - ⚡ **Hobbies:** Playing the piano 🎹 and graphic design 🎨.
 
