@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Ashaba Joshua Jasper 
 
 **Data Scientist | Data Analyst | Web & App Developer**
-
+ 
 Welcome to my GitHub profile! I am a dedicated Data Scientist and Data Analyst with experience in Web and App Development. My passion lies in extracting insights from data, building analytical models, and leveraging technology to solve real-world problems.
 
 ---  
