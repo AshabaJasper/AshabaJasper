@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ashaba Joshua Jasper    
+### Hi there! 👋 I'm Ashaba Joshua Jasper     
                 
 **Data Scientist  | Data Analyst | Web & App Developer**  
    
