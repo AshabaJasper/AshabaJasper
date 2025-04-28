@@ -4,7 +4,7 @@
    
 Welcome to my GitHub profile! I am a dedicated Data Scientist and Data Analyst with experience in Web and App Development. My passion lies in extracting insights from data, building analytical models, and leveraging technology to solve real-world problems.
    
----   
+---    
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" />
 
