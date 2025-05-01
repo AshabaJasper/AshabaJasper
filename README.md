@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a dedicated Data Scientist and Data Analyst w
 - 💬 **Ask Me About:** Data Science, SQL, Python, Web Development, and App Development.
 - ⚡ **Hobbies:** Playing the piano 🎹 and graphic design 🎨.
 
----
+--- 
 
 ## 🌐 Connect With Me
 
