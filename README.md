@@ -87,18 +87,6 @@ I transform complex data into actionable insights and build intelligent applicat
 - [Deep Learning for Time Series Forecasting](#)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 35 mins  ███████████░░░░░░░░░  45.2%
-SQL          5 hrs 42 mins   ████▓░░░░░░░░░░░░░░░  20.5%
-JavaScript   2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░  10.1% 
-React        2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░   7.9%
-Markdown     1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░   5.6%
-```
-<!--END_SECTION:waka-->
-
 ## 🎯 Current Focus
 
 <div align="center">
