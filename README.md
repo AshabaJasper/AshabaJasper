@@ -1,4 +1,3 @@
-
 <div align="center">          
       
 # Hi there! 👋 I'm Ashaba Joshua Jasper  
@@ -10,7 +9,68 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashabajasper@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshabaJasper)
 
-</div> 
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **THE RESET** 🚀
+### *June 1st, 2025 - January 1st, 2026*
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=COMMITMENT+ACTIVATED;6+MONTHS+%7C+0+DAYS+OFF;GRINDING+MODE%3A+ON;BUILDING+THE+FUTURE" alt="Reset Commitment" />
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💪 **THE COMMITMENT**
+```
+📅 Duration: 184 Days
+🎯 Focus: 100% Dedication  
+🚫 Days Off: ZERO
+⚡ Mode: BEAST
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 **THE MISSION**
+```
+🔥 Level Up Skills
+🚀 Ship Products
+📈 Build Portfolio
+💡 Create Impact
+```
+
+</td>
+<td align="center" width="33%">
+
+### 📊 **PROGRESS TRACKER**
+```
+⏱️ Days Completed: 0/184
+📈 Projects Shipped: 0
+🏆 Milestones Hit: 0
+🔥 Streak: Day 0
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+![Progress Bar](https://progress-bar.dev/0/?scale=184&title=RESET%20PROGRESS&width=500&color=6A5ACD&suffix=/184%20DAYS)
+
+**"The difference between ordinary and extraordinary is that little extra."**
+
+</div>
+
+---
  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -70,6 +130,51 @@ I transform complex data into actionable insights and build intelligent applicat
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) |
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
 </details>
+
+## 🎯 RESET GOALS & MILESTONES
+
+<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 📈 **SKILLS**
+- [ ] Advanced MLOps Pipeline
+- [ ] System Design Mastery
+- [ ] Cloud Architecture Cert
+- [ ] Production ML Systems
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 **PROJECTS**
+- [ ] 5 Production Apps
+- [ ] Open Source Contrib
+- [ ] Tech Blog Series
+- [ ] Portfolio Redesign
+
+</td>
+<td width="25%" align="center">
+
+### 💼 **CAREER**
+- [ ] Network Expansion
+- [ ] Speaking Engagements
+- [ ] Mentorship Program
+- [ ] Industry Recognition
+
+</td>
+<td width="25%" align="center">
+
+### 🏆 **IMPACT**
+- [ ] 10K+ GitHub Stars
+- [ ] Community Building
+- [ ] Knowledge Sharing
+- [ ] Problem Solving
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 📂 Featured Projects
 
@@ -132,11 +237,27 @@ I transform complex data into actionable insights and build intelligent applicat
   </table>
 </div>
 
+---
+
+<div align="center">
+
+## 🔥 **RESET COMMITMENT TRACKER** 🔥
+
+### *"184 Days of Relentless Growth"*
+
+![Commitment Badge](https://img.shields.io/badge/COMMITMENT-ACTIVATED-brightgreen?style=for-the-badge&logo=target&logoColor=white)
+![Days Badge](https://img.shields.io/badge/DAYS_OFF-0-red?style=for-the-badge&logo=calendar&logoColor=white)
+![Focus Badge](https://img.shields.io/badge/FOCUS-100%25-blue?style=for-the-badge&logo=zap&logoColor=white)
+
+</div>
+
 <div align="center">
   
 ## 💬 Let's Connect!
 
 <p>I'm always open to interesting conversations and collaboration opportunities. Whether you're looking to discuss data science, develop a project together, or just chat about technology, feel free to reach out!</p>
+
+**Currently in RESET MODE 🚀 - Expect rapid responses and high-energy collaboration!**
 
 <a href="https://www.buymeacoffee.com/ashabajasper">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40px" alt="Buy Me A Coffee" />
@@ -153,6 +274,15 @@ I transform complex data into actionable insights and build intelligent applicat
 <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Visits" />
 
 </div>
+
+<!-- 
+MANUAL UPDATE INSTRUCTIONS:
+1. Update progress tracker numbers daily
+2. Check off milestones as completed
+3. Update project count in reset section
+4. Maintain streak counter
+5. Update progress bar percentage: https://progress-bar.dev/{current_day}/?scale=184&title=RESET%20PROGRESS&width=500&color=6A5ACD&suffix=/184%20DAYS
+-->
 
 <!-- Setup instructions: 
 1. Create a personal access token: https://github.com/settings/tokens
