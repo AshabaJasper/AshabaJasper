@@ -1,7 +1,7 @@
 new begginings!<div align="center">          
        
 # !Hi there! 👋 I'm Ashaba Joshua Jasper  
-    
+     
 <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Analyst;Machine+Learning+Engineer;Full-Stack+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashaba-jasper-29621b241/)
