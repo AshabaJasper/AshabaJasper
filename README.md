@@ -16,7 +16,7 @@
 <div align="center">
 
 ## 📊 **THE DATA SCIENCE RESET** 📊
-### *June 7th, 2025 - January 1st, 2026*
+### *June 7th, 2025 - January 1st, 2026* One day left
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=DATA+SCIENCE+MASTERY+MODE;208+DAYS+%7C+0+DAYS+OFF;ALGORITHMS+%26+INSIGHTS;BUILDING+AI+SOLUTIONS" alt="Data Science Reset" />
 
