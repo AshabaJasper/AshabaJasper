@@ -1,130 +1,92 @@
-<div align="center">
+# Hi there! 👋 I'm Ashaba Joshua Jasper
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=40&fontColor=fff&animation=fadeIn&desc=Turning%20Caffeine%20into%20Code%20Since%202025&descSize=18&descAlignY=65" />
+**Data Scientist | ML Engineer | Full-Stack Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+Scientist+by+Day+🌞;Piano+Player+by+Night+🎹;ML+Engineer+Always+🤖" alt="Typing SVG" />
+Welcome to my GitHub profile! I'm a data scientist and software engineer passionate about building intelligent solutions that make a real impact. My expertise spans machine learning, data analytics, and full-stack development.
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashaba-jasper-29621b241/)
-[![Twitter](https://img.shields.io/badge/-Follow-%23000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ashaba_jasper)
-[![Email](https://img.shields.io/badge/-Hello-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashabajasper@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Code-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AshabaJasper)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-</div>
+## 📖 About Me
 
-## 🎯 The 200-Day Mission
+- 🔭 **Currently Working On:** Advanced ML models and production deployment pipelines
+- 🌱 **Learning:** MLOps, Causal Inference, and Cloud Architecture
+- 🛠️ **Building:** End-to-end data science solutions and analytical dashboards
+- 💬 **Ask Me About:** Python, Machine Learning, Data Science, Full-Stack Development
+- ❤️ **Tech Stack:** Python, TensorFlow, React, Django, SQL
+- ⚡ **Fun Fact:** I play piano 🎹 and enjoy graphic design 🎨
 
-<div align="center">
+## 🌐 Connect With Me
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  START: June 15, 2025  →  FINISH: January 1, 2026         │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         │
-│  □□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□  0/200 DAYS    │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashaba-jasper-29621b241/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ashaba_jasper" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:ashabajasper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/AshabaJasper" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-**No breaks. No excuses. Just consistent growth.**
+## 💻 Tech Stack
 
-</div>
+### 📊 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 👋 Quick Intro
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I solve problems with data and build things that matter. Equal parts scientist and artist – I find patterns in datasets during the day and melodies on piano keys at night. Currently on a 200-day journey to master the art of production ML.
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="right" width="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+## 📈 GitHub Stats
 
-### What I'm About:
-- 🧠 **Thinking:** How to make ML models actually useful in production
-- 🔨 **Building:** Tools that bridge the gap between data science and real impact
-- 📚 **Learning:** MLOps, causal inference, and why my neural network is sad
-- 🎹 **Playing:** Jazz standards (they have surprisingly good debugging properties)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&theme=default"/>
+</p>
 
-## 💻 Tech I Work With
+## 🚀 Featured Projects
 
-```python
-tech_stack = {
-    "languages": ["Python", "R", "SQL", "JavaScript"],
-    "ml_frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
-    "favorite_tools": ["Jupyter", "VSCode", "Coffee Machine ☕"],
-    "currently_exploring": ["JAX", "Rust", "Quantum ML"],
-    "deployment": ["Docker", "k8s", "FastAPI", "Streamlit"]
-}
-```
+### [Predictive Analytics Platform](https://github.com/AshabaJasper)
+- Building end-to-end ML pipelines for business forecasting
+- Tech: Python, TensorFlow, Airflow, Docker
 
-## 🚀 Current Adventures
+### [Real-time Data Dashboard](https://github.com/AshabaJasper)
+- Interactive analytics dashboard with live data streaming
+- Tech: React, D3.js, Python, PostgreSQL
 
-<table>
-<tr>
-<td width="33%">
+## 🎯 2025 Goals
 
-#### 📊 Project Alpha
-**Real-time Analytics Engine**  
-Status: `▓▓▓▓▓▓░░░░` 60%
+- [ ] Complete 200-day Data Science challenge (Starting June 15, 2025)
+- [ ] Deploy 50 ML models to production
+- [ ] Contribute to major open-source projects
+- [ ] Obtain AWS ML Specialty certification
+- [ ] Build 3 end-to-end ML products
 
-</td>
-<td width="33%">
+## 💡 Let's Collaborate!
 
-#### 🤖 Project Beta
-**AutoML Platform**  
-Status: `▓▓▓░░░░░░░` 30%
-
-</td>
-<td width="33%">
-
-#### 🎯 Project Gamma
-**Causal Inference Toolkit**  
-Status: `▓░░░░░░░░░` 10%
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Activity
-
-<div align="center">
-<a href="https://github.com/AshabaJasper">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="160em" src="https://github-streak-stats.herokuapp.com/?user=AshabaJasper&theme=aura&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B" />
-</a>
-</div>
-
-## 🎨 Beyond the Code
-
-<div align="center">
-
-| 🎹 Music | 📚 Reading | ☕ Coffee | 🏃 Running |
-|----------|------------|-----------|------------|
-| Jazz & Classical | Sci-Fi & ML Papers | Espresso Enthusiast | 5K Runner |
-
-</div>
-
-## 💭 Current Mantras
-
-> "Good data scientists know the tools. Great ones know when not to use them."
-
-> "If you can't explain it simply, you need more coffee."
-
-> "Every bug is just an opportunity to learn something new (after swearing a bit)."
-
-## 🤝 Let's Connect!
-
-I'm always down for interesting conversations about ML, music, or that weird bug you can't figure out. Drop me a line if you want to:
-
-- 🤖 Collaborate on ML projects
-- 💡 Brainstorm solutions to interesting problems  
-- 🎹 Discuss the correlation between music theory and algorithms
-- ☕ Share your favorite debugging beverage
-
-<div align="center">
+I'm always interested in working on innovative projects in data science, machine learning, or full-stack development. Feel free to reach out if you'd like to collaborate!
 
 ---
 
-**Day 0 of 200** | *The journey begins Sunday, June 15th*
+**📫 How to reach me:** ashabajasper@gmail.com
 
-<a href="https://www.buymeacoffee.com/ashabajasper">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Fuel the journey&emoji=🚀&slug=ashabajasper&button_colour=6C63FF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" height="36" />
-</a>
-
-![](https://komarev.com/ghpvc/?username=AshabaJasper&color=6C63FF&style=flat-square&label=Visitors)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=AshabaJasper&color=blue)
