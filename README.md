@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashaba Joshua Jasper     (Edits incoming-on the weekend)
+# Hi there! 👋 I'm Ashaba Joshua Jasper
      
 **Data Scientist | ML Engineer  | Full-Stack Developer**   
    
