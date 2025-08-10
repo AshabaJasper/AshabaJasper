@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashaba Joshua Jasper  
+# Hi there! 👋 I'm Ashaba Joshua Jasper   
           
 **Data Scientist | ML Engineer  | Full-Stack Developer**     
 Welcome to my GitHub profile! I'm a data scientist and software engineer passionate about building intelligent solutions that make a real impact. My expertise spans machine learning, data analytics, and full-stack development.
