@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a data scientist and software engineer passion
 
 ## 🎯 2025 Goals
 
-- [ ] Complete 200-day Data Science challenge (Starting June 15, 2025)
+- [ ] Complete 200-day Data Science challenge ()
 - [ ] Deploy 50 ML models to production
 - [ ] Contribute to major open-source projects
 - [ ] Obtain AWS ML Specialty certification
