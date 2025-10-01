@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a data scientist and software engineer passion
 ## 📖 About Me   
 
 - 🔭 **Currently Working On:** Advanced ML models and production deployment pipelines
-- 🌱 **Learning:** MLOps, Causal Inference, and Cloud Architecture
+- 🌱 **Learning:** MLOps, Causal Inference, and Cloud Architecture (Add CI/CD)
 - 🛠️ **Building:** End-to-end data science solutions and analytical dashboards
 - 💬 **Ask Me About:** Python, Machine Learning, Data Science, Full-Stack Development
 - ❤️ **Tech Stack:** Python, TensorFlow, React, Django, SQL
