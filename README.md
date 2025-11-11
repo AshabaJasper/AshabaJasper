@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashaba Joshua Jasper  
+# Hi there!  I'm Ashaba Joshua Jasper  
 **Data Scientist | ML Engineer | Full-Stack Developer**
 
 Welcome to my GitHub profile!  
