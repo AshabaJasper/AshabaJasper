@@ -81,10 +81,6 @@ I’m a data scientist and software engineer passionate about transforming data 
 
 ## 🚀 Featured Projects
 
-### [RadCareLoop – Intelligent Radiology Pipeline](https://github.com/AshabaJasper)
-AI-driven medical workflow automation for radiology follow-ups and prior authorization analytics.  
-**Tech:** Python, Azure Cognitive Services, Django REST, PostgreSQL, React
-
 ### [Persmon Data Platform](https://github.com/AshabaJasper)
 Unified analytics dashboard and automation platform for businesses.  
 **Tech:** Python, SQL, FastAPI, Docker, Power BI
