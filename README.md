@@ -9,7 +9,7 @@ I’m a data scientist and software engineer passionate about transforming data 
 ---
 
 ## 📖 About Me
-
+ 
 - 🔭 **Currently Working On:** AI-powered healthcare systems, business automation, and intelligent analytics dashboards  
 - 🌱 **Learning (Next 20 Days Focus):** Advanced **Python** and **SQL** for data engineering and MLOps foundations  
 - ⚙️ **Exploring:** CI/CD, Azure Machine Learning, and containerized ML deployment  
