@@ -114,19 +114,21 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 
 <!-- ============================================================= -->
 <!--                      GITHUB ANALYTICS                         -->
-<!--   Custom light-brown theme via hex params (no # in URLs)      -->
-<!--   Streak card now uses the maintained demolab host            -->
+<!--   Stats / Streak / Top-Langs are STATIC SVGs generated daily  -->
+<!--   by the "Update README Cards" Action and committed to        -->
+<!--   /profile, so they never hit a live server (no rate limits). -->
+<!--   Trophy + Activity graph stay live (no commit-to-repo action) -->
 <!-- ============================================================= -->
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C19A6B&icon_color=B5835A&text_color=DEB887&bg_color=00000000&cache_seconds=86400" alt="github stats" />
-  <img height="170em" src="https://streak-stats.demolab.com/?user=AshabaJasper&hide_border=true&background=00000000&stroke=B5835A&ring=C19A6B&fire=8B5E3C&currStreakNum=DEB887&currStreakLabel=C19A6B&sideNums=DEB887&sideLabels=C19A6B&dates=A98F73" alt="github streak" />
+  <img height="170em" src="./profile/stats.svg" alt="github stats" />
+  <img height="170em" src="./profile/streak.svg" alt="github streak" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&hide_border=true&langs_count=8&title_color=C19A6B&text_color=DEB887&bg_color=00000000&cache_seconds=86400" alt="top languages" />
+  <img height="170em" src="./profile/top-langs.svg" alt="top languages" />
 </p>
 
 <p align="center">
@@ -172,7 +174,7 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 <!--                        CONNECT                                -->
 <!-- ============================================================= -->
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I'm open to partnerships, open-source contributions, and research collaborations in **AI/ML**, **Data Analytics**, and **Software Engineering**. If you're building something meaningful — let's talk.
 
