@@ -28,19 +28,18 @@
 
 ## About
 
-I work across data science, machine learning, analytics, and full-stack software development. My focus is simple: build useful systems that turn data into better decisions and automate work that slows teams down.
+I work across data science, machine learning, analytics, and full-stack software development. My focus is to build useful systems that turn data into better decisions and automate work that slows teams down.
 
-- Currently building AI-powered business automation, analytics dashboards, and applied ML workflows.
-- Strongest day-to-day tools: Python, SQL, Power BI, FastAPI, Django, React, Docker, and cloud services.
+- Building AI-powered business automation, analytics dashboards, and applied ML workflows.
+- Working mainly with Python, SQL, Power BI, FastAPI, Django, React, Docker, Azure, and Firebase.
 - Interested in MLOps, model deployment, observability, data engineering, and production-grade AI systems.
 - Founder at [Persmon Technologies](https://persmontechnologies.com), where we build digital systems for businesses.
-- Outside work, I enjoy piano, design, and building ideas into real products.
 
 ---
 
 ## Core Stack
 
-### Data Science, AI, and Analytics
+### Data, AI, and Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,6 +49,7 @@ I work across data science, machine learning, analytics, and full-stack software
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Engineering and Product Development
 
@@ -65,18 +65,48 @@ I work across data science, machine learning, analytics, and full-stack software
 
 ---
 
-## GitHub Data
+## GitHub Stats Dashboard
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=C19A6B&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AshabaJasper?label=Followers&logo=github&style=for-the-badge&color=C19A6B&labelColor=5C4033&logoColor=white" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshabaJasper&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=B5835A&labelColor=5C4033&logo=github&logoColor=white" alt="Public repositories" />
-  <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=C19A6B&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshabaJasper&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&color=8B5E3C&labelColor=5C4033&logo=github&logoColor=white" alt="Public gists" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033&icon_color=C19A6B" alt="Ashaba's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies" />
 </p>
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&rank_icon=github&title_color=8B5E3C&text_color=5C4033&icon_color=C19A6B" alt="GitHub stats" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=AshabaJasper&theme=transparent&hide_border=true&ring=C19A6B&currStreakLabel=5C4033&sideLabels=5C4033&currStreakNum=8B5E3C&sideNums=8B5E3C&dates=5C4033" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&langs_count=12&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033&card_width=420" alt="Top languages compact" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033&card_width=360" alt="Most used languages donut" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshabaJasper&theme=transparent" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshabaJasper&theme=transparent" alt="Languages by repository" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshabaJasper&theme=transparent" alt="Languages by commits" />
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshabaJasper&theme=transparent" alt="Summary stats" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshabaJasper&theme=transparent&utcOffset=3" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+> Note: Public cards only count public GitHub data unless the service is self-hosted with a token. Organization-only work may not appear in every chart.
 
 ---
 
@@ -95,7 +125,7 @@ I work across data science, machine learning, analytics, and full-stack software
 ## Current Focus
 
 - Strengthening advanced Python and SQL for data engineering and MLOps.
-- Building more end-to-end ML projects with deployment, monitoring, and documentation.
+- Building end-to-end ML projects with deployment, monitoring, and documentation.
 - Improving AI automation workflows for healthcare, business operations, and analytics.
 - Expanding Persmon Technologies into a stronger software, data, and AI delivery company.
 
