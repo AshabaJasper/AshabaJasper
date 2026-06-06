@@ -1,27 +1,29 @@
 <!-- ============================================================= -->
-<!--                     ANIMATED HEADER BANNER                    -->
+<!--                 MODERN ANIMATED HEADER BANNER                 -->
+<!--   type=waving + animation=scaleIn (smooth zoom-in entrance)   -->
+<!--   Light-brown gradient: C19A6B -> B5835A -> 8B5E3C            -->
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=220&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Analyst&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C19A6B,50:B5835A,100:8B5E3C&height=210&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Analyst&descSize=17&descAlignY=58&animation=scaleIn" alt="header banner" />
 </p>
 
 <!-- ============================================================= -->
-<!--                     ANIMATED TYPING TITLE                     -->
+<!--             ANIMATED TYPING TITLE (light brown)               -->
 <!-- ============================================================= -->
 
 <p align="center">
   <a href="https://github.com/AshabaJasper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=50&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+in+the+Making+%F0%9F%A7%A0;Data+Analyst+%7C+Data+Scientist+%F0%9F%93%8A;Turning+Raw+Data+into+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C19A6B&center=true&vCenter=true&width=620&height=50&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+in+the+Making+%F0%9F%A7%A0;Data+Analyst+%7C+Data+Scientist+%F0%9F%93%8A;Turning+Raw+Data+into+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ============================================================= -->
-<!--                       PROFILE BADGES                          -->
+<!--                  PROFILE BADGES (brown accent)               -->
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=C19A6B&style=for-the-badge" alt="profile views" />
   <a href="https://linkedin.com/in/ashaba-jasper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -61,6 +63,7 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 
 <!-- ============================================================= -->
 <!--                        TECH ARSENAL                           -->
+<!--   Tech badges kept brand-colored for instant recognition      -->
 <!-- ============================================================= -->
 
 ## 🛠️ Tech Arsenal
@@ -111,32 +114,34 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 
 <!-- ============================================================= -->
 <!--                      GITHUB ANALYTICS                         -->
+<!--   Custom light-brown theme via hex params (no # in URLs)      -->
+<!--   Streak card now uses the maintained demolab host            -->
 <!-- ============================================================= -->
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AshabaJasper&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C19A6B&icon_color=B5835A&text_color=DEB887&bg_color=00000000&cache_seconds=86400" alt="github stats" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=AshabaJasper&hide_border=true&background=00000000&stroke=B5835A&ring=C19A6B&fire=8B5E3C&currStreakNum=DEB887&currStreakLabel=C19A6B&sideNums=DEB887&sideLabels=C19A6B&dates=A98F73" alt="github streak" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&hide_border=true&langs_count=8&title_color=C19A6B&text_color=DEB887&bg_color=00000000&cache_seconds=86400" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=gruvbox&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </p>
 
-<!-- Contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&hide_border=true&area=true&bg_color=00000000&color=C19A6B&line=B5835A&point=8B5E3C&title_color=C19A6B" alt="activity graph" />
 </p>
 
 ---
 
 <!-- ============================================================= -->
 <!--                     CONTRIBUTION SNAKE                        -->
+<!--   Requires the GitHub Action (setup at bottom of file)        -->
 <!-- ============================================================= -->
 
 ## 🐍 Contribution Snake
@@ -144,21 +149,6 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 <p align="center">
   <img src="https://raw.githubusercontent.com/AshabaJasper/AshabaJasper/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </p>
-
-> ℹ️ *The snake is generated by a GitHub Action — setup instructions are at the bottom of this file.*
-
----
-
-<!-- ============================================================= -->
-<!--                      FEATURED PROJECTS                        -->
-<!-- ============================================================= -->
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Persmon Data Platform](https://github.com/AshabaJasper)** | Unified analytics dashboard & business automation platform. | `Python` `SQL` `FastAPI` `Docker` `Power BI` |
-| **[Predictive Analytics Engine](https://github.com/AshabaJasper)** | Full-stack predictive modeling & forecasting system. | `TensorFlow` `Airflow` `PostgreSQL` `Docker` |
 
 ---
 
@@ -202,9 +192,10 @@ I'm open to partnerships, open-source contributions, and research collaborations
 </p>
 
 <!-- ============================================================= -->
-<!--                     ANIMATED FOOTER                           -->
+<!--                MODERN ANIMATED FOOTER BANNER                  -->
+<!--   type=waving + animation=twinkling (gentle moving sparkle)   -->
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:4F46E5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:B5835A,100:C19A6B&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="footer" />
 </p>
