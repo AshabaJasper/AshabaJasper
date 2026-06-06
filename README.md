@@ -1,7 +1,5 @@
 <!-- ============================================================= -->
-<!--                 MODERN ANIMATED HEADER BANNER                 -->
-<!--   type=waving + animation=scaleIn (smooth zoom-in entrance)   -->
-<!--   Light-brown gradient: C19A6B -> B5835A -> 8B5E3C            -->
+<!--                 ANIMATED HEADER BANNER                        -->
 <!-- ============================================================= -->
 
 <p align="center">
@@ -19,11 +17,18 @@
 </p>
 
 <!-- ============================================================= -->
-<!--                  PROFILE BADGES (brown accent)               -->
+<!--          PROFILE + LIVE BADGES (Shields.io / komarev)         -->
+<!--   These run on large CDNs that don't go down. No setup.       -->
 <!-- ============================================================= -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=C19A6B&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/AshabaJasper?tab=followers">
+    <img src="https://img.shields.io/github/followers/AshabaJasper?label=Followers&logo=github&style=for-the-badge&color=8B5E3C&labelColor=5C4033&logoColor=white" alt="followers" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ashaba-jasper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -63,7 +68,7 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 
 <!-- ============================================================= -->
 <!--                        TECH ARSENAL                           -->
-<!--   Tech badges kept brand-colored for instant recognition      -->
+<!--   All badges are Shields.io (rock-solid CDN). Always render.   -->
 <!-- ============================================================= -->
 
 ## 🛠️ Tech Arsenal
@@ -113,43 +118,17 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 ---
 
 <!-- ============================================================= -->
-<!--                      GITHUB ANALYTICS                         -->
-<!--   Stats / Streak / Top-Langs are STATIC SVGs generated daily  -->
-<!--   by the "Update README Cards" Action and committed to        -->
-<!--   /profile, so they never hit a live server (no rate limits). -->
-<!--   Trophy + Activity graph stay live (no commit-to-repo action) -->
+<!--                  GITHUB AT A GLANCE                           -->
+<!--   Live numbers via Shields.io dynamic badges (no setup).      -->
 <!-- ============================================================= -->
 
-## 📈 GitHub Analytics
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="170em" src="./profile/stats.svg" alt="github stats" />
-  <img height="170em" src="./profile/streak.svg" alt="github streak" />
-</p>
-
-<p align="center">
-  <img height="170em" src="./profile/top-langs.svg" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=gruvbox&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&hide_border=true&area=true&bg_color=00000000&color=C19A6B&line=B5835A&point=8B5E3C&title_color=C19A6B" alt="activity graph" />
-</p>
-
----
-
-<!-- ============================================================= -->
-<!--                     CONTRIBUTION SNAKE                        -->
-<!--   Requires the GitHub Action (setup at bottom of file)        -->
-<!-- ============================================================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AshabaJasper/AshabaJasper/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+  <img src="https://img.shields.io/github/followers/AshabaJasper?label=Followers&logo=github&style=flat-square&color=C19A6B&labelColor=5C4033&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AshabaJasper&query=public_repos&label=Public%20Repos&style=flat-square&color=B5835A&labelColor=5C4033&logo=github&logoColor=white" alt="public repos" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data-8B5E3C?style=flat-square&labelColor=5C4033" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-C19A6B?style=flat-square&labelColor=5C4033" alt="open to collaboration" />
 </p>
 
 ---
@@ -174,7 +153,7 @@ I'm a software engineer and aspiring **AI/ML Engineer** based in **Kampala, Ugan
 <!--                        CONNECT                                -->
 <!-- ============================================================= -->
 
-##  Let's Collaborate
+## 🤝 Let's Collaborate
 
 I'm open to partnerships, open-source contributions, and research collaborations in **AI/ML**, **Data Analytics**, and **Software Engineering**. If you're building something meaningful — let's talk.
 
@@ -194,8 +173,7 @@ I'm open to partnerships, open-source contributions, and research collaborations
 </p>
 
 <!-- ============================================================= -->
-<!--                MODERN ANIMATED FOOTER BANNER                  -->
-<!--   type=waving + animation=twinkling (gentle moving sparkle)   -->
+<!--                     ANIMATED FOOTER                           -->
 <!-- ============================================================= -->
 
 <p align="center">
