@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C19A6B,50:B5835A,100:8B5E3C&height=190&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" alt="Ashaba Joshua Jasper" />
-</p>
+</p> 
 
 <h1 align="center">Hi, I'm Ashaba Joshua Jasper</h1>
 
