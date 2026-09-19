@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C19A6B,50:B5835A,100:8B5E3C&height=190&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" alt="Ashaba Joshua Jasper" />
-</p> 
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C19A6B,50:B5835A,100:8B5E3C&height=190&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Engineer&descSize=17&descAlignY=58" alt="Ashaba Joshua Jasper" />
+</p>
+
 <h1 align="center">Hi, I'm Ashaba Joshua Jasper</h1>
 
 <p align="center">
@@ -24,16 +24,33 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AshabaJasper?tab=repositories">Explore my work</a> &middot;
+  <a href="mailto:ashabajasper@gmail.com">Get in touch</a>
+</p>
+
 ---
 
 ## About
 
-I work across data science, machine learning, analytics, and full-stack software development. My focus is to build useful systems that turn data into better decisions and automate work that slows teams down.
+I build practical systems across data science, machine learning, analytics, and full-stack software development. My focus is turning data into useful decisions and automating work that slows teams down.
 
 - Building AI-powered business automation, analytics dashboards, and applied ML workflows.
 - Working mainly with Python, SQL, Power BI, FastAPI, Django, React, Docker, Azure, and Firebase.
 - Interested in MLOps, model deployment, observability, data engineering, and production-grade AI systems.
 - Founder at [Persmon Technologies](https://persmontechnologies.com), where we build digital systems for businesses.
+
+---
+
+## What I Build
+
+| Area | Work I Focus On |
+| --- | --- |
+| Data Science | Data cleaning, EDA, predictive models, analytics workflows, and reporting pipelines |
+| AI and ML | Applied machine learning, model evaluation, AI-assisted automation, and production deployment |
+| Dashboards | Power BI, SQL reporting, executive dashboards, and operational monitoring |
+| Software Engineering | APIs, business systems, admin dashboards, integrations, and automation tools |
+| Cloud and DevOps | Containerization, CI/CD, deployment workflows, monitoring, and reliability improvements |
 
 ---
 
@@ -65,7 +82,7 @@ I work across data science, machine learning, analytics, and full-stack software
 
 ---
 
-## GitHub Stats Dashboard
+## GitHub Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20Views&color=C19A6B&style=for-the-badge" alt="Profile views" />
@@ -75,50 +92,31 @@ I work across data science, machine learning, analytics, and full-stack software
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshabaJasper&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies" />
+  <img width="495" src="https://streak-stats.demolab.com/?user=AshabaJasper&theme=default&background=FFFFFF&hide_border=true&ring=C19A6B&currStreakLabel=5C4033&sideLabels=5C4033&currStreakNum=8B5E3C&sideNums=8B5E3C&dates=5C4033" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AshabaJasper&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&rank_icon=github&title_color=8B5E3C&text_color=5C4033&icon_color=C19A6B" alt="GitHub stats" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=AshabaJasper&theme=transparent&hide_border=true&ring=C19A6B&currStreakLabel=5C4033&sideLabels=5C4033&currStreakNum=8B5E3C&sideNums=8B5E3C&dates=5C4033" alt="GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshabaJasper&theme=github" alt="Profile details" />
+</p>
+
+<details>
+<summary>More activity: languages, stats, and coding times (UTC+3)</summary>
+
+<p align="center">
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshabaJasper&theme=github" alt="Languages by repository" />
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshabaJasper&theme=github" alt="Languages by commits" />
 </p>
 
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=compact&langs_count=12&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033&card_width=420" alt="Top languages compact" />
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshabaJasper&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=8B5E3C&text_color=5C4033&card_width=360" alt="Most used languages donut" />
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshabaJasper&theme=github" alt="Summary stats" />
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshabaJasper&theme=github&utcOffset=3" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshabaJasper&theme=transparent" alt="Profile details" />
-</p>
+</details>
 
-<p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshabaJasper&theme=transparent" alt="Languages by repository" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshabaJasper&theme=transparent" alt="Languages by commits" />
-</p>
+These cards are provided by external services and may refresh at different times. Private and organization work may not be fully represented; language charts describe repository activity, not proficiency.
 
-<p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshabaJasper&theme=transparent" alt="Summary stats" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshabaJasper&theme=transparent&utcOffset=3" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshabaJasper&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
-
-> Note: Public cards only count public GitHub data unless the service is self-hosted with a token. Organization-only work may not appear in every chart.
-
----
-
-## What I Build
-
-| Area | Work I Focus On |
-| --- | --- |
-| Data Science | Data cleaning, EDA, predictive models, analytics workflows, and reporting pipelines |
-| AI and ML | Applied machine learning, model evaluation, AI-assisted automation, and production deployment |
-| Dashboards | Power BI, SQL reporting, executive dashboards, and operational monitoring |
-| Software Engineering | APIs, business systems, admin dashboards, integrations, and automation tools |
-| Cloud and DevOps | Containerization, CI/CD, deployment workflows, monitoring, and reliability improvements |
+[View repositories](https://github.com/AshabaJasper?tab=repositories) · [View contributions](https://github.com/AshabaJasper#overview)
 
 ---
 
@@ -132,6 +130,8 @@ I work across data science, machine learning, analytics, and full-stack software
 ---
 
 ## Connect
+
+Have a project in data, AI, analytics, or business software? [Email me](mailto:ashabajasper@gmail.com) or visit [Persmon Technologies](https://persmontechnologies.com).
 
 <p align="center">
   <a href="https://linkedin.com/in/ashaba-jasper">
@@ -149,5 +149,5 @@ I work across data science, machine learning, analytics, and full-stack software
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:B5835A,100:C19A6B&height=130&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:B5835A,100:C19A6B&height=130&section=footer" alt="" />
 </p>
