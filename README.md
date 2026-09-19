@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:3D2D22&height=190&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=DATA%20SCIENCE%20%20%2F%20%20AI%20%26%20ML%20%20%2F%20%20SOFTWARE&descSize=15&descAlignY=59&descColor=D2B48C" alt="Ashaba Joshua Jasper — Data Science, AI and ML, Software" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:3D2D22&height=190&section=header&text=Ashaba%20Joshua%20Jasper&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=DATA%20SCIENCE%20%20%2F%20%20AI%20%2F%20ML%20%20%2F%20%20SOFTWARE&descSize=15&descAlignY=59&descColor=D2B48C" alt="Ashaba Joshua Jasper — Data Science, AI and ML, Software" />
 </p>
 
 <h1 align="center">Turning data into decisions. Ideas into software.</h1>
