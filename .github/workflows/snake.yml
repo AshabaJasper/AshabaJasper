@@ -1,0 +1,35 @@
+# Generates the animated "contribution snake" used in the profile README.
+# Runs daily and on demand; output is committed to the `output` branch so the
+# README can embed it from raw.githubusercontent.com without any third-party host.
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 06:00 EAT
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
